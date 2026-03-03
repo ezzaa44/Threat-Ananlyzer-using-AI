@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+models/*.pkl
+reports/*.png
+logs/*.log
+.DS_Store

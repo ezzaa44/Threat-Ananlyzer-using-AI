@@ -1,0 +1,10 @@
+duration,protocol,src_bytes,dst_bytes,flag,label
+0,icmp,1032,0,SF,malicious
+0,icmp,1032,0,SF,malicious
+0,icmp,1032,0,SF,malicious
+0,tcp,345,5419,SF,benign
+0,tcp,0,0,S0,malicious
+0,icmp,1032,0,SF,malicious
+0,tcp,0,0,S0,malicious
+0,tcp,309,1158,SF,benign
+0,icmp,1032,0,SF,malicious

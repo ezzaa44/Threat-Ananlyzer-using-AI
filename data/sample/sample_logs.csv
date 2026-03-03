@@ -1,0 +1,4 @@
+duration,protocol,src_bytes,dst_bytes,flag
+0,tcp,0,0,REJ
+3,tcp,250,8100,SF
+0,icmp,0,0,S0
